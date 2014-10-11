@@ -74,6 +74,7 @@ Robert Reiz
  
 - Elasticsearch, logstash & Kibana – Eine Einfuehrung in den ELK-Stack
 Alexander Reelsen
+  - https://speakerdeck.com/elasticsearch/introduction-to-the-elk-stack
  
 - Modern Web Application (In-)Security
 Fabian Beterke, Felix Schmidt
@@ -138,8 +139,9 @@ Colin Charles
 - Scala.js: Scala für den Browser
 Lutz Hühnken
 ### 16:00
-- Dissect JavaScriptEnglisch
+- Dissect JavaScript
 Martin Kleppe
+  - https://speakerdeck.com/aemkei/dissect-javascript 
  
 - Flying Robots
 Björn Brauer, Martin Schuhfuß
@@ -168,8 +170,9 @@ Jan Schwenzien
 - Bessere Performanz durch Nicht-blockierende Webanwendungen
 Renée Bäcker
  
-- Distributed Ad hoc Real-Time Stream ProcessingEnglisch
+- Distributed Ad hoc Real-Time Stream Processing
 Christian Kreutzfeldt
+  - http://prezi.com/i2jk4pc8-xnw/stream-processing-past-present-and-reactive-future/
  
 - Effiziente Software-Entwicklung für die Cloud mit DevOps Service und PaaS – Von der Idee zum produktiven System in nur wenigen Minuten
 Rainer Hochecker
@@ -267,6 +270,7 @@ Volker Janz
  
 - Guerrilla software design: doing it wrong and getting it rightEnglisch
 Marco Cecconi
+  - https://speakerdeck.com/sklivvz/guerrilla-programming-code-dot-talks-2014
  
 - Highend-Onlineshops mit Shopware umsetzen. Vorteile und Grenzen der Open-Source Shopsoftware.
 Moritz Kirk
