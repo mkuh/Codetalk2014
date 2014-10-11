@@ -122,6 +122,7 @@ Christian von Hardenberg
 Sebastian Heuer, Arne Blankerts
  
 - Agiler Responsive Workflow
+  - http://maddesigns.de/responsive-workflow/#1
 Sven Wolfermann
  
 - ArangoDB – A different approach to NoSQL
@@ -207,6 +208,7 @@ Stefan Richter
  
 - Meteor has landed – what’s hot in 1.0?
 Niko Köbler, Heiko Spindler
+  - http://slides.com/dasniko/meteor#/1
  
 - NoSQL – Konzepte live und in Farbe
 Astrid Ritscher
@@ -244,6 +246,7 @@ Markus Winand
  
 - Was nicht passt wird responsive gemacht
 Christoph Reinartz
+  - http://de.slideshare.net/ChristophReinartz/rwd-codetalks-40130867
 ### 13:00
 - “Die 10 Gebote – composer Edition”
 René Kerner
@@ -301,6 +304,7 @@ Inga Halpin
  
 - Eine kurze Geschichte der Testpraktiken
 Sebastian Bergmann
+  - http://thephp.cc/dates/2014/code-talks/eine-kurze-geschichte-der-testpraktiken
  
 - JavaScript für Java- und C#-Entwickler
 Oliver Ochs, Oliver Zeigermann
@@ -338,6 +342,7 @@ Martin Smolny
  
 - Service Oriented Architecture for robust and scalable systems
 Ole Michaelis
+  - http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems-2##1
  
 - Zend Framework 3 – Viva la evolución!
 Ralf Eggert
@@ -358,6 +363,7 @@ Claudio Altamura
  
 - Geb und Graphene im Vergleich
 Stefan Hildebrandt
+  - http://consulting.hildebrandt.tk/vortraege/geb-und-graphene-im-vergleich/slides/index.html#/
  
 - Handgranaten für die Developer
 Nils Lauk
@@ -367,3 +373,4 @@ Judith Andresen
  
 - Unleash the services – wie wir ein monolithisches Ruby-Biest bezwangen
 Martin Naumann
+  - https://docs.google.com/presentation/d/11-cZA545O3P2qc65RIqmO_Abu3Z_xfvzItTrQHUQvqQ/edit?usp=sharing
