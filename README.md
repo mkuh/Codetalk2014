@@ -23,6 +23,7 @@ Donnerstag, 9. Oktober
 
 - Development meets Infrastructure
 Markus Rekkenbeil
+  - https://speakerdeck.com/bionix/codetalks-2014-development-meets-infrastructure
 
 - Elasticsearch Lessons Learned
 Patrick Peschlow
@@ -56,6 +57,7 @@ Andreas Kirsch
  
 - Kopf frei für’s Produkt – Automatisierung mit Ansible und Jenkins
 Andre Christ, Dr. Daniel Pozzi
+  - http://de.slideshare.net/leanIX_net/codetalks2014
  
 - Programming the futureEnglisch
 Josep M. Bach
