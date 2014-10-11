@@ -276,7 +276,7 @@ Jutta Bögemann
  
 - Mut zur Lücke? – Werkzeuge zur alltagstauglichen Dokumentation
 Jan-Christian Krause
--  http://de.slideshare.net/JanChristianKrause/mut-zur-lucke
+  - http://de.slideshare.net/JanChristianKrause/mut-zur-lucke
  
 - OnConnectionLost: Das Leben einer Offline Web-Applikation
 Lukasz Plotnicki, Johannes Thönes
