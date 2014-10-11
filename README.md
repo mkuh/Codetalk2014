@@ -120,6 +120,7 @@ Christian von Hardenberg
 ### 15:00
 - “Die Performance steigern wir dann später durch Caching?”
 Sebastian Heuer, Arne Blankerts
+  - http://thephp.cc/dates/2014/code-talks/die-performance-steigern-wir-dann-spaeter-durch-caching
  
 - Agiler Responsive Workflow
   - http://maddesigns.de/responsive-workflow/#1
@@ -370,6 +371,7 @@ Nils Lauk
  
 - Mit offener Kommunikation Projekte meistern
 Judith Andresen
+  - http://www.judithandresen.com/2014/10/10/code-talks-2014-mit-offener-kommunikation-projekte-meistern/
  
 - Unleash the services – wie wir ein monolithisches Ruby-Biest bezwangen
 Martin Naumann
