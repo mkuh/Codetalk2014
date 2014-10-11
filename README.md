@@ -38,6 +38,7 @@ Taylor Dondich
  
 - Was bringen Code Reviews wirklich? Wir sind doch schon agil.
 Frank Sons
+  - http://de.slideshare.net/frank_sons/code-reviews-agile
 
 ### 11:00
 
@@ -208,8 +209,9 @@ Niko Köbler, Heiko Spindler
 - NoSQL – Konzepte live und in Farbe
 Astrid Ritscher
  
-- Stream Processing – Past, Present and Reactive FutureEnglisch
+- Stream Processing – Past, Present and Reactive Future
 Oleg Ilyenko
+  - http://prezi.com/i2jk4pc8-xnw/stream-processing-past-present-and-reactive-future/
  
 - Von Browser- zu Cross-Platform Games
 Martin Kloeppner
@@ -284,6 +286,7 @@ Jan-Christian Krause
  
 - OnConnectionLost: Das Leben einer Offline Web-Applikation
 Lukasz Plotnicki, Johannes Thönes
+  - http://de.slideshare.net/lplotni/on-connection-lost
  
 - Optimierung der User Experience einer Mobilanwendung mit Machine Learning
 Klas Kalaß
@@ -324,8 +327,9 @@ Kai Voigt
 - Eine neue Art der CDN-Konfiguration
 Niklas Fischer-Riepe
  
-- How to Build a Data Warehouse?Englisch
+- How to Build a Data Warehouse?
 Martin Loetzsch
+  - http://de.slideshare.net/martinloetzsch/how-to-build-a-data-warehouse-codetalks-2014
  
 - Introducing Bluemix: IBM’s hosted CloudFoundry PaaS
 Martin Smolny
