@@ -4,7 +4,7 @@ Codetalk2014 Foilen Sallung
 
 Link Sammlung zu den Folienvon CodeTalk 2014
 
-### Table of contents
+### Übersicht
 
 
 [TOC]
@@ -276,6 +276,7 @@ Jutta Bögemann
  
 - Mut zur Lücke? – Werkzeuge zur alltagstauglichen Dokumentation
 Jan-Christian Krause
+-  http://de.slideshare.net/JanChristianKrause/mut-zur-lucke
  
 - OnConnectionLost: Das Leben einer Offline Web-Applikation
 Lukasz Plotnicki, Johannes Thönes
