@@ -13,8 +13,7 @@ Link Sammlung zu den Folienvon CodeTalk 2014
 Donnerstag, 9. Oktober
 ---------------------
 
-10:00
------
+### 10:00
 - Automatisierung von Deployment und Skalierung eines großen
    Internet-Systems mit Docker, Zookeeper und Spark. 
    Marco Hennings  
@@ -40,8 +39,7 @@ Taylor Dondich
 - Was bringen Code Reviews wirklich? Wir sind doch schon agil.
 Frank Sons
 
-11:00
------
+### 11:00
 
 - 10 lessons learned while growing from 1 to 1000
 Stefan Klemm
@@ -67,8 +65,7 @@ Brian Wagner
 - WebAPI – expand what the Web can do today
 Carsten Sandtner
 
-13:00
-----------
+### 13:00
 - Apache Drill – Wirklich interaktives SQL mit Hadoop für alle Formate und Datengrößen
 Fabian Wilckens
  
@@ -90,8 +87,7 @@ Paul Seiffert
 - User Groups: Act Locally – Think GloballyEnglisch
 PJ Hagerty
 
-14:00
-----------
+### 14:00
 
 - E-Commerce Systeme gestern, heute und morgen
 Sebastian Betz
@@ -117,8 +113,7 @@ Marc Jansen
 - Speeding up Code, Webpages and Teams at Rocket InternetEnglisch
 Christian von Hardenberg
 
-15:00
-----------
+### 15:00
 - “Die Performance steigern wir dann später durch Caching?”
 Sebastian Heuer, Arne Blankerts
  
@@ -142,8 +137,7 @@ Colin Charles
  
 - Scala.js: Scala für den Browser
 Lutz Hühnken
-16:00
-----------
+### 16:00
 - Dissect JavaScriptEnglisch
 Martin Kleppe
  
@@ -167,8 +161,7 @@ Marc Schwering
  
 - “Man nehme: Facebook Presto, Lucene/Elasticsearch und eine verteilte SQL Engine“
 Jodok Batlogg
-17:00
-----------
+### 17:00
 - App Testing 2.0: Mit Crowd Testing zum mobilen Erfolg
 Jan Schwenzien
  
@@ -220,8 +213,7 @@ Martin Kloeppner
  
 - Warum jeder Teenie einen RPi zu Hause haben sollte
 Tam Hanna
-11:00
-----------
+### 11:00
 - Datengetriebene Analyse und Verbesserung von Code
 Andreas Dewes
  
@@ -245,8 +237,7 @@ Markus Winand
  
 - Was nicht passt wird responsive gemacht
 Christoph Reinartz
-13:00
-----------
+### 13:00
 - “Die 10 Gebote – composer Edition”
 René Kerner
  
@@ -270,8 +261,7 @@ Benjamin-Timm Broich, Robert Kilian
  
 - ReqOps or How to Become a Super Product Owner.Englisch
 Daniel Colomer Collell
-14:00
-----------
+### 14:00
 - Big Game Data – Skalierbare und fehlertolerante Event-Tracking-Architektur
 Volker Janz
  
@@ -295,8 +285,7 @@ Klas Kalaß
  
 - SSL/TLS erklärt
 Christian Heimes
-15:00
-----------
+### 15:00
 - Cheaper, Faster, Easier, Better: Building Mobile Apps with ParseEnglisch
 Inga Halpin
  
@@ -320,8 +309,7 @@ Heiko Hubertz
  
 - Wenn Suchboxen nicht funktionieren – Wie am besten die Qualitaet der eigenen Suchapplikation sicherstellen?
 Isabel Drost-Fromm
-16:00
-----------
+### 16:00
 - (Fr)agile Werte
 Stefan Rudnitzki , Oliver Paegelow
  
@@ -343,8 +331,7 @@ Ole Michaelis
 - Zend Framework 3 – Viva la evolución!
 Ralf Eggert
 
-17:00
-----------
+### 17:00
 
 - Ab in die Horizontale – Parallelisierung mit Queues
 Daniel Seif
@@ -369,19 +356,3 @@ Judith Andresen
  
 - Unleash the services – wie wir ein monolithisches Ruby-Biest bezwangen
 Martin Naumann
-
-
-
-### Table of contents
-
-
-
-
-
-### Support StackEdit
-
-[![](https://cdn.monetizejs.com/resources/button-32.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
-
-  [^stackedit]: [StackEdit](https://stackedit.io/) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
-
-
