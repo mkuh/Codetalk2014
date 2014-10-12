@@ -93,6 +93,7 @@ Fabian Wilckens
  
 - Continuous Updating with VersionEyeEnglisch
 Robert Reiz
+  - http://www.slideshare.net/robertreiz/continuous-updating-codetalks
  
 - Elasticsearch, logstash & Kibana – Eine Einfuehrung in den ELK-Stack
 Alexander Reelsen
