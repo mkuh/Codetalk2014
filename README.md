@@ -337,6 +337,7 @@ Thomas Bachem
  
 - Robuste Anwendungen in verteilten Umgebungen mit Hystrix
 Alexander Schwartz
+  - https://speakerdeck.com/ahus1/robuste-anwendungen-mit-hystrix-code-dot-talks-hamburg
  
 - Sind Entwickler, die besseren Unternehmer?
 Heiko Hubertz
