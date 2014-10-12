@@ -279,6 +279,7 @@ Nico Lumma
  
 - Customer Support bei GitHub – Support kann auch Spass machen!
 Mike Adolphs
+  - Ergänzung: Podcast (ca. 2,25h) mit Mike über das Thema ["Arbeiten bei GitHub"](http://workingdraft.de/187/)
  
 - Intro to Recommender Systems
 Dr. Dennis Bohle
