@@ -2,7 +2,7 @@
 Codetalk2014 Foilen Sallung
 ===================
 
-Link Sammlung zu den Folienvon CodeTalk 2014
+Link Sammlung zu den Folien (Code/ Zusatztkommetaren) von CodeTalk 2014
 
 ### Übersicht
 - [Donnerstag, 9. Oktober](#donnerstag-9-oktober)
@@ -107,6 +107,7 @@ Robert Müller
  
 - Symfony und Ember auf einer Seite
 Paul Seiffert
+  - http://de.slideshare.net/seiffertp/symfony-und-ember-medium-quality
  
 - User Groups: Act Locally – Think GloballyEnglisch
 PJ Hagerty
