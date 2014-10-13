@@ -8,7 +8,6 @@ Link Sammlung zu den Folienvon CodeTalk 2014
 - [Donnerstag, 9. Oktober](#donnerstag-9-oktober)
  - [10:00](#1000)
  - [11:00](#1100)
- - [12:00](#1200)
  - [13:00](#1300)
  - [14:00](#1400)
  - [15:00](#1500)
@@ -17,7 +16,6 @@ Link Sammlung zu den Folienvon CodeTalk 2014
 - [Freitag, 10. Oktober](#freitag-10-oktober)
  - [10:00](#1000-1)
  - [11:00](#1100-1)
- - [12:00](#1200-1)
  - [13:00](#1300-1)
  - [14:00](#1400-1)
  - [15:00](#1500-1)
@@ -66,6 +64,7 @@ Stefan Klemm
  
 - Architekturen für eine Next Generation IT
 Uwe Friedrichsen
+  - http://de.slideshare.net/ufried/modern-times-architectures-for-a-next-generation-of-it
  
 - Build your own Event-Tracking: Messung und Analyse des Benutzerverhaltens in sehr großen Internet-Systemen zur Optimierung der User Experience
 Katrin Stamme, Martin Holtschneider
@@ -86,6 +85,7 @@ Brian Wagner
 - WebAPI – expand what the Web can do today
 Carsten Sandtner
   - http://casarock.github.io/WebAPIs_codetalks14/#/title
+  - Code: https://github.com/casarock/casarock.github.io/tree/master/WebAPIs_codetalks14/examples
 
 ### 13:00
 - Apache Drill – Wirklich interaktives SQL mit Hadoop für alle Formate und Datengrößen
@@ -202,7 +202,7 @@ Christian Kreutzfeldt
 - Effiziente Software-Entwicklung für die Cloud mit DevOps Service und PaaS – Von der Idee zum produktiven System in nur wenigen Minuten
 Rainer Hochecker
  
-I - see your 127.32+, a tale of rationalsEnglisch
+- I - see your 127.32+, a tale of rationalsEnglisch
 Xavier Noria
  
 - Lessons learned – 2 Jahre Entwicklung der STYLIGHT Apps
@@ -216,8 +216,8 @@ Dr. Johannes Mainusch, Benedikt Stemmildt
 
 Freitag, 10. Oktober
 ---------------------
-10:00
-----------
+###10:00
+
 - Das dynamische Duo gegen Dr. DOM – Frontendentwicklung mit ClojureScript und React
 Roger Gilliar
  
@@ -268,6 +268,7 @@ Markus Winand
 - Was nicht passt wird responsive gemacht
 Christoph Reinartz
   - http://de.slideshare.net/ChristophReinartz/rwd-codetalks-40130867
+
 ### 13:00
 - “Die 10 Gebote – composer Edition”
 René Kerner
