@@ -266,6 +266,7 @@ Thomas Hanning
  
 - Volkskrankheit “stiefmütterliche Datenbank-Indizierung”
 Markus Winand
+  - http://de.slideshare.net/MarkusWinand/volkskrankheit-stiefmuetterliche-indizierung
  
 - Was nicht passt wird responsive gemacht
 Christoph Reinartz
@@ -406,3 +407,4 @@ Blog beiträge
 ---------------------
 - http://thephp.cc/standpunkte/blog/2014/10/code-talks
 - http://blog.k-server.de/code-talks-2014-ein-fazit
+- http://shoptechblog.de/2014/10/13/recap-code-talks-2014-in-hamburg/
