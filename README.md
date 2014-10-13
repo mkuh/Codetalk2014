@@ -21,7 +21,7 @@ Link Sammlung zu den Folien (Code/ Zusatztkommetaren) von CodeTalk 2014
  - [15:00](#1500-1)
  - [16:00](#1600-1)
  - [17:00](#1700-1)
-- Links
+- [Links][#blog-beitr%C3%A4ge-)
 
 
 
@@ -406,4 +406,4 @@ Blog beiträge
 ---------------------
 - http://thephp.cc/standpunkte/blog/2014/10/code-talks
 - http://blog.k-server.de/code-talks-2014-ein-fazit
-- 
+-  
