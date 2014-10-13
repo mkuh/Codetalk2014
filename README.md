@@ -353,6 +353,7 @@ Isabel Drost-Fromm
 ### 16:00
 - (Fr)agile Werte
 Stefan Rudnitzki , Oliver Paegelow
+ - https://speakerdeck.com/strud/fragile-werte
  
 - Apache Spark, Big Data mit Hadoop wird schneller und einfacher
 Kai Voigt
