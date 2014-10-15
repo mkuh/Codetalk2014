@@ -174,6 +174,8 @@ Björn Brauer, Martin Schuhfuß
  
 - Log all the things! – Event-basierende, effiziente und skalierbare Datenaggregation mit fluentd
 Moritz Heiber
+  - https://github.com/moritzheiber/codetalks-2014-fluentd-presentation
+  - https://github.com/moritzheiber/fluentd-sample-app
  
 - Open Commerce by ABOUT YOU: Lessons learned im Aufbau eines App Öko-Systems
 Sebastian Betz
