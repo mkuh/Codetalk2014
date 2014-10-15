@@ -326,6 +326,7 @@ Klas Kalaß
 - SSL/TLS erklärt
 Christian Heimes
   - https://speakerdeck.com/tiran/tls-erklart
+
 ### 15:00
 - Cheaper, Faster, Easier, Better: Building Mobile Apps with ParseEnglisch
 Inga Halpin
