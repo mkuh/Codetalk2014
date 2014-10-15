@@ -75,6 +75,7 @@ Andreas Kirsch
 - Kopf frei für’s Produkt – Automatisierung mit Ansible und Jenkins
 Andre Christ, Dr. Daniel Pozzi
   - http://de.slideshare.net/leanIX_net/codetalks2014
+  - Code: https://github.com/leanix/codetalks_2014_demo
  
 - Programming the futureEnglisch
 Josep M. Bach
