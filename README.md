@@ -355,6 +355,7 @@ Isabel Drost-Fromm
 ### 16:00
 - (Fr)agile Werte
 Stefan Rudnitzki , Oliver Paegelow
+ - https://speakerdeck.com/strud/fragile-werte
  
 - Apache Spark, Big Data mit Hadoop wird schneller und einfacher
 Kai Voigt
@@ -375,6 +376,7 @@ Ole Michaelis
  
 - Zend Framework 3 – Viva la evolución!
 Ralf Eggert
+ - http://de.slideshare.net/eggertralf/zend-framework-3-viva-la-evolucin
 
 ### 17:00
 
