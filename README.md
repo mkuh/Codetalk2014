@@ -260,6 +260,7 @@ Sven Schannak
  
 - Reactive Template-Programmierung mit react.js
 Oliver Zeigermann
+  - https://djcordhose.github.io/serious-javascript/slides/react-intro.html
  
 - Swift in 45 Minuten
 Thomas Hanning
