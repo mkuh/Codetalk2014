@@ -4,6 +4,8 @@ Codetalk2014 Folien Sammlung
 
 Link Sammlung zu den Folien (Code/ Zusatztkommetaren) von CodeTalk 2014
 
+Inzwischen wurden für viele Vorträge die Slides hier veröffentlicht: http://www.codetalks.de/programm/
+
 ### Übersicht
 - [Donnerstag, 9. Oktober](#donnerstag-9-oktober)
  - [10:00](#1000)
