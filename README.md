@@ -418,3 +418,5 @@ Blog beiträge
 - http://thephp.cc/standpunkte/blog/2014/10/code-talks
 - http://blog.k-server.de/code-talks-2014-ein-fazit
 - http://shoptechblog.de/2014/10/13/recap-code-talks-2014-in-hamburg/
+- http://www.sgalinski.de/news/code-talks-2014-tag-1.html
+- http://www.sgalinski.de/news/code-talks-2014-tag-2.html
