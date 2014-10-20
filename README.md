@@ -420,3 +420,4 @@ Blog beiträge
 - http://shoptechblog.de/2014/10/13/recap-code-talks-2014-in-hamburg/
 - http://www.sgalinski.de/news/code-talks-2014-tag-1.html
 - http://www.sgalinski.de/news/code-talks-2014-tag-2.html
+- http://blog.creinartz.de/2014/10/18/code-talks-2014-ein-bericht/
