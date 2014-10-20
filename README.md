@@ -45,6 +45,7 @@ Markus Rekkenbeil
 
 - Elasticsearch Lessons Learned
 Patrick Peschlow
+  - http://www.codetalks.de/wp-content/uploads/2014/08/code.talks2014_Patrick-Peschlow_elasticsearch-lessons-learned.pdf
  
 - Lean Startup mit JavaScript
 Sebastian Springer
