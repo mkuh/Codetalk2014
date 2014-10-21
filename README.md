@@ -74,6 +74,7 @@ Katrin Stamme, Martin Holtschneider
  
 - Entwicklung eines Entwicklers – Was kommt nach dem entwickeln?
 Andreas Kirsch
+ - http://de.slideshare.net/akirsch/entwicklung-eines-entwicklers-was-kommt-nach-dem-entwickeln
  
 - Kopf frei für’s Produkt – Automatisierung mit Ansible und Jenkins
 Andre Christ, Dr. Daniel Pozzi
